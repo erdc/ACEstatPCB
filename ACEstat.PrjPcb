@@ -112,7 +112,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VXZBIIZH
 
 [Document5]
-DocumentPath=ACEstat.SchLib
+DocumentPath=..\..\..\..\RDITLEWB\Documents\Altium Projects\ACEstat\ACEstat2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,6 +129,40 @@ GenerateClassCluster=0
 DocumentUniqueId=GVWKIJKE
 
 [Document6]
+DocumentPath=ACEstat.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GVWKIJKE
+
+[Document7]
+DocumentPath=..\..\..\..\RDITLEWB\Documents\Altium Projects\ACEstat\ACEstat2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RCCFDQAD
+
+[Document8]
 DocumentPath=ACEstat.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCCFDQAD
 
-[Document7]
+[Document9]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOCREVVQ
 
-[Document8]
+[Document10]
 DocumentPath=Electrode Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCEXJRJN
 
-[Document9]
+[Document11]
 DocumentPath=EC_Sensor1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -196,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARJGCVGY
 
-[Document10]
+[Document12]
 DocumentPath=EC_Sensor2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,7 +366,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Professional CP1020 Series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1151,58 +1185,52 @@ ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
-ComponentDesignItemID2=
+ComponentDesignItemID2=Cap
 ComponentSymbolReference2=Cap
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
-ComponentDesignItemID3=Cap
-ComponentSymbolReference3=Cap
+ComponentDesignItemID3=Res3
+ComponentSymbolReference3=Res3
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
-ComponentDesignItemID4=Res3
-ComponentSymbolReference4=Res3
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=Altium Content Vault
+ComponentDesignItemID4=CMP-0078-00009-4
+ComponentSymbolReference4=d1575387be0861e7d660ffc487494b2
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name Only
 ComponentLibraryIdentifier5=Altium Content Vault
-ComponentDesignItemID5=CMP-0078-00009-4
-ComponentSymbolReference5=d1575387be0861e7d660ffc487494b2
-ComponentUpdate5=1
+ComponentDesignItemID5=CMP-02355-000003-1
+ComponentSymbolReference5=7c76f4c47d7e2af8b8797da79635f2a
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name Only
 ComponentLibraryIdentifier6=Altium Content Vault
-ComponentDesignItemID6=CMP-02355-000003-1
-ComponentSymbolReference6=7c76f4c47d7e2af8b8797da79635f2a
-ComponentUpdate6=0
+ComponentDesignItemID6=CMP-0686-00129-3
+ComponentSymbolReference6=5f30dd21d616792df468990f7003faa
+ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name Only
 ComponentLibraryIdentifier7=Altium Content Vault
-ComponentDesignItemID7=CMP-0686-00129-3
-ComponentSymbolReference7=5f30dd21d616792df468990f7003faa
+ComponentDesignItemID7=CMP-1502-01061-1
+ComponentSymbolReference7=WE-CN-1P-M-R3
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name Only
 ComponentLibraryIdentifier8=Altium Content Vault
-ComponentDesignItemID8=CMP-1502-01061-1
-ComponentSymbolReference8=WE-CN-1P-M-R3
+ComponentDesignItemID8=CMP-1677-00001-4
+ComponentSymbolReference8=SW-SPST-4_A
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name Only
 ComponentLibraryIdentifier9=Altium Content Vault
-ComponentDesignItemID9=CMP-1677-00001-4
-ComponentSymbolReference9=SW-SPST-4_A
+ComponentDesignItemID9=CMP-2000-05727-1
+ComponentSymbolReference9=XTAL-1-3-4
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name Only
-ComponentLibraryIdentifier10=Altium Content Vault
-ComponentDesignItemID10=CMP-2000-05727-1
-ComponentSymbolReference10=XTAL-1-3-4
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
