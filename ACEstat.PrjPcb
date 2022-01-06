@@ -112,23 +112,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VXZBIIZH
 
 [Document5]
-DocumentPath=..\..\..\..\RDITLEWB\Documents\Altium Projects\ACEstat\ACEstat2.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GVWKIJKE
-
-[Document6]
 DocumentPath=ACEstat.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,24 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVWKIJKE
 
-[Document7]
-DocumentPath=..\..\..\..\RDITLEWB\Documents\Altium Projects\ACEstat\ACEstat2.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RCCFDQAD
-
-[Document8]
+[Document6]
 DocumentPath=ACEstat.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCCFDQAD
 
-[Document9]
+[Document7]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -196,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOCREVVQ
 
-[Document10]
+[Document8]
 DocumentPath=Electrode Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCEXJRJN
 
-[Document11]
+[Document9]
 DocumentPath=EC_Sensor1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -230,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARJGCVGY
 
-[Document12]
+[Document10]
 DocumentPath=EC_Sensor2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
