@@ -38,12 +38,6 @@ VaultGUID=FCF42D53-B36E-4EB8-A831-EA8A414B7B96
 ReleaseVaultName=Engineer Research and Development Center
 ItemGUID=1AE93EDC-A2A2-4BAB-86E6-9752E6317CC4
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
