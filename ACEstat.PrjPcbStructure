@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=acestat_355.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=acestat_355.SchDoc|Designator=Chan 0|SchDesignator=Chan 0|FileName=EC_Sensor1.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=EC_Sensor1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=acestat_355.SchDoc|Designator=Chan 1|SchDesignator=Chan 1|FileName=EC_Sensor2.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=EC_Sensor2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=acestat_355.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=acestat_355.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
