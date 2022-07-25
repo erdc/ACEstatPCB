@@ -451,6 +451,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for ACEstat\ACEstat.REP
 DItemRevisionGUID=
 
+[GeneratedDocument50]
+DocumentPath=Project Outputs for ACEstat\Design Rule Check - ACEstat.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
