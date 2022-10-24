@@ -255,205 +255,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ACEstat\ACEstat-RoundHoles.TX1
+[Document13]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ACEstat\ACEstat-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ACEstat\ACEstat-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ACEstat\ACEstat.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ACEstat\ACEstat.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ACEstat\ACEstat.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ACEstat\ACEstat.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD3
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD4
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD5
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD6
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD7
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD8
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GD9
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG2
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG3
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG4
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG5
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG6
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG7
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG8
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GG9
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for ACEstat\ACEstat.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for ACEstat\ACEstat.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for ACEstat\ACEstat.REP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for ACEstat\Design Rule Check - ACEstat.html
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1024,6 +841,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1156,6 +978,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
